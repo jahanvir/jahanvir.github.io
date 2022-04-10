@@ -29,7 +29,7 @@ Present data in the prototype is crowdsourced by people and compiled with more t
 * Choose cities via pincode.
 * Compariosion of life style for 2 or more cities.
 * User Signup and Customized product range.
-   * User would be able to add products they use and get finalized report specialy designer for them.
+   * User would be able to add products they use and get finalized report specialy designed for them.
 
 
 
