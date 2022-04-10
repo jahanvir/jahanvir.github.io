@@ -23,6 +23,8 @@ Check out Demo video [here](https://youtu.be/wJNzMaDO3X0).
 ## Data Details
 Present data in the prototype is crowdsourced by people and compiled with more than 20 other public data sets. All numbers then processed by predictor algorithm. Price on a product or service can vary significantly inside a city depending on the place of purchase and quality. Several data sources and crowdsourcing helps to smooth out the spread making the data good enough for comparison.
 
+Data files are then converted to Dynamic webpages. 
+
 ## Final Website will include ...
 
 * Data for more cities and countries.
